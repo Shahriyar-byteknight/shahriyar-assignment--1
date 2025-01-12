@@ -1,1 +1,192 @@
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 800 */
 
+.open-sans-assignment {
+   font-family: "Open Sans", serif; 
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-variation-settings:
+   
+} 
+div.banner{
+  width: 1280px;
+  height: 560px;
+  display: flex;
+ background-color: #C6E4D6;
+border-radius:24px ;
+justify-content: center;
+align-items: center;
+}
+.banner-content{
+  padding: 100px 80px;
+}
+.bannerr-title{
+font-weight: 800;
+color:#0E0E0E;
+opacity: 50%;
+}
+.banner-description{
+font-size: 56px;
+font-weight:bold;
+color:#0E0E0E ;
+}
+.explore{ 
+  color: white;
+  background-color: #006A50;
+  padding: 17px 34px;
+  border-radius: 8px;
+}
+/* Vision of future */
+.vision{
+  align-items: center;
+  justify-content: center;
+  weight:1280px;
+  height: 765px;
+}
+.vision-title{
+  font-weight: bold;
+  font-size: 40px;
+}
+.vision-sub-title{
+  font-size: 16px;
+  color:#0E0E0E ;
+  opacity: 70%;
+}
+.DGM{
+  display: flex;
+  justify-content:center;
+  gap: 20px;
+  border-radius: ;
+}
+.DGM-title{
+  font-size: 20;
+  font-weight: bold;
+  opacity: 80%;
+}
+.DGM-description{
+  font-size: 16px;
+  color: #0E0E0E;
+  opacity: 70%;
+}
+.btn-dgm{
+  padding: 20px 11px;
+  border-radius: 8px;
+  color: white;
+}
+.btn-d{
+background-color:#5490F5 ;
+}
+.btn-g{
+background-color:#09A15C;
+}
+.btn-m{
+  background-color:#FFC239 ;
+}
+.digital{
+  background-color:lightblue;
+  
+  padding: 32px;
+  border-radius: 16px;
+}
+.green{
+  background-color:#C6E4D6 ;
+  padding: 32px;
+  border-radius: 16px;
+}
+.modern{
+  background-color: #F7EBCF;
+  padding: 32px;
+  border-radius: 16px;
+}
+#extra{
+  display: flexbox;
+  margin-top: 15px;
+  border-radius: 16px;
+  background-color: wheat;
+ padding:24px 48px;
+ gap: 12px;
+}
+.para{
+  font: 16px;
+  color: #0E0E0E;
+  opacity: 80%;
+}
+.name{
+  font-weight: 600;
+  font-size: 20px;
+  opacity: 80%;
+}
+.recognation{
+  color:#0E0E0E ;
+  opacity: 60%;
+}
+/* Visionof future end */
+/* Recent news style */
+.news-title{
+  font-weight: bold;
+  font-size: 40px;
+}
+.news-sub-title{
+  font-size: 16px;
+  color: #0E0E0E;opacity: 70%;
+}
+.satelite{
+  border-radius: 24px;
+}
+.satelite-title{
+  font-size: 32px;
+  font-weight: bold;
+  opacity: 80%;
+}
+.date-time{
+display: flex;
+column-gap:10px ;
+font-size: 16px;
+color: #0E0E0E;opacity: 70%;
+}
+.news-description{
+  font-size: 16px;opacity: 70%;
+}
+.news-button{
+  background-color: #006A50;
+  color: #FFFFFF;
+  padding: 15px 13px;
+  border-radius: 8px;
+}
+.card-1{
+  display: flex;
+}
+.card-2{
+  display: flex;
+}
+.cards{
+gap: 10px;
+}
+/* Donation Style */
+.money{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.choice-money{
+  padding: 20px 20px;
+  background-color: aqua;
+  border-radius: 15px;
+}
+.selected-money{
+  padding: 20px 20px;
+  background-color:#09A15C;
+  border-radius: 15px;
+}
+.donation-button{
+  color: white;
+  background-color: #006A50;
+  padding: 10px 50px;
+  margin: 10px;
+  
+}
+.amount{
+  margin-top: 8px;
+  justify-content: center;
+}
